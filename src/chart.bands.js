@@ -10,7 +10,8 @@ baseColor = [];
 
 supportedTypes = {
     'bubble': 'backgroundColor',
-    'line': 'borderColor'
+    'line': 'borderColor',
+    'lineWithHover': 'borderColor'
 };
 addLegendColourHelper = {
     'borderColor': 'backgroundColor',
